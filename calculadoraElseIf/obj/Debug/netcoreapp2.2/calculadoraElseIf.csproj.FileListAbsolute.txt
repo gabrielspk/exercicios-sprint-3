@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\calculadoraElseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\calculadoraElseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\calculadoraElseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\calculadoraElseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\bin\Debug\netcoreapp2.2\calculadoraElseIf.deps.json
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\bin\Debug\netcoreapp2.2\calculadoraElseIf.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\bin\Debug\netcoreapp2.2\calculadoraElseIf.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\bin\Debug\netcoreapp2.2\calculadoraElseIf.dll
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\bin\Debug\netcoreapp2.2\calculadoraElseIf.pdb
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.dll
+C:\Users\50738510807\Desktop\Exercícios\calculadoraelseif\obj\Debug\netcoreapp2.2\calculadoraElseIf.pdb
