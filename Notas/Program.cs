@@ -4,6 +4,8 @@ namespace Notas
 {
     class Program
     {
+        private const int V = 4;
+
         static void Main(string[] args)
         {
             int num1= 0;
@@ -30,14 +32,14 @@ namespace Notas
 
             if (media >=8)
             {
-                Console.WriteLine("Você passou!")
-                Console.Writeline("Parabéns sua nota esta a cima da media")
-            }else if(media == 7){
+                Console.WriteLine("Você passou!");
+                Console.WriteLine("Parabéns sua nota esta a cima da media"); }
+            else if(media == 7){
                 Console.WriteLine("Você passou");
                 Console.WriteLine("Voce esta na media");
             }else if(media ==6){
                 Console.WriteLine("Você reprovou");
-                Console.Writeline("Se esforce mais na proxima vez");
+                Console.WriteLine("Se esforce mais na proxima vez");
             }
 
        

@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\exercícios\Impar\bin\Debug\netcoreapp2.2\Impar.deps.json
+C:\Users\50738510807\Desktop\exercícios\Impar\bin\Debug\netcoreapp2.2\Impar.runtimeconfig.json
+C:\Users\50738510807\Desktop\exercícios\Impar\bin\Debug\netcoreapp2.2\Impar.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\exercícios\Impar\bin\Debug\netcoreapp2.2\Impar.dll
+C:\Users\50738510807\Desktop\exercícios\Impar\bin\Debug\netcoreapp2.2\Impar.pdb
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.dll
+C:\Users\50738510807\Desktop\exercícios\Impar\obj\Debug\netcoreapp2.2\Impar.pdb

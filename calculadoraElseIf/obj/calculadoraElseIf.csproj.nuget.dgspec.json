@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseif\\calculadoraElseIf.csproj": {}
+    "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseIf\\calculadoraElseIf.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseif\\calculadoraElseIf.csproj": {
+    "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseIf\\calculadoraElseIf.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseif\\calculadoraElseIf.csproj",
+        "projectUniqueName": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseIf\\calculadoraElseIf.csproj",
         "projectName": "calculadoraElseIf",
-        "projectPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseif\\calculadoraElseIf.csproj",
+        "projectPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseIf\\calculadoraElseIf.csproj",
         "packagesPath": "C:\\Users\\50738510807\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseif\\obj\\",
+        "outputPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\calculadoraelseIf\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
