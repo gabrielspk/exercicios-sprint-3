@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\50738510807\\desktop\\exercícios\\tabuada5\\tabuada5.csproj": {}
+    "C:\\Users\\50738510807\\Desktop\\Exercícios\\tabuada5\\tabuada5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\50738510807\\desktop\\exercícios\\tabuada5\\tabuada5.csproj": {
+    "C:\\Users\\50738510807\\Desktop\\Exercícios\\tabuada5\\tabuada5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\50738510807\\desktop\\exercícios\\tabuada5\\tabuada5.csproj",
+        "projectUniqueName": "C:\\Users\\50738510807\\Desktop\\Exercícios\\tabuada5\\tabuada5.csproj",
         "projectName": "tabuada5",
-        "projectPath": "C:\\Users\\50738510807\\desktop\\exercícios\\tabuada5\\tabuada5.csproj",
+        "projectPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\tabuada5\\tabuada5.csproj",
         "packagesPath": "C:\\Users\\50738510807\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\50738510807\\desktop\\exercícios\\tabuada5\\obj\\",
+        "outputPath": "C:\\Users\\50738510807\\Desktop\\Exercícios\\tabuada5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
