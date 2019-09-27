@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\corrigido\bin\Debug\netcoreapp2.2\corrigido.deps.json
+C:\Users\50738510807\Desktop\Exercícios\corrigido\bin\Debug\netcoreapp2.2\corrigido.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\corrigido\bin\Debug\netcoreapp2.2\corrigido.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\corrigido\bin\Debug\netcoreapp2.2\corrigido.dll
+C:\Users\50738510807\Desktop\Exercícios\corrigido\bin\Debug\netcoreapp2.2\corrigido.pdb
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.dll
+C:\Users\50738510807\Desktop\Exercícios\corrigido\obj\Debug\netcoreapp2.2\corrigido.pdb
