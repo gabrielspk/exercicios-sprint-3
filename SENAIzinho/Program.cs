@@ -1,56 +1,44 @@
 ﻿using System;
 
-namespace SENAIzinho
-{
-    class Program
-    {
-        static void Main(string[] args)
-        {
-            
-            Sala sala = new Sala(8,10);
+namespace SENAIzinho {
+    class Program {
+        static void Main (string[] args) {
+            int limiteAlunos = 10;
+            int limiteSalas = 10;
+            Aluno[] alunos = new Aluno[100];
+            Sala[] salas = new Sala[10];
+            int alunoCadastrados = 0;
+            int salasCadastradas = 0;
+            //bool querSair;
 
-            System.Console.WriteLine("Digite o nome do aluno a ser alocado");
-            if (CapacidadeTotal < capacidadeAtual) {
+        }
 
-
-
-            } else 
-
-
-
-            
-            
-            do{
-                System.Console.WriteLine("Registro de Alunos");
+        public void CadastrarAluno (Aluno[] alunos, int totalAluno, int alunosCadastrados) {
+            if(totalAluno < alunosCadastrados)
+            {
+                System.Console.WriteLine("Cadastro de Alunos");
                 System.Console.WriteLine();
-                System.Console.WriteLine("Digite uma opção");
-                System.Console.WriteLine("Digite 1 para Cadastrar Aluno");
-                System.Console.WriteLine("Digite 2 para Cadastrar Sala");
-                System.Console.WriteLine("Digite 3 para Alocar Aluno");
-                System.Console.WriteLine("Digite 4 para Remover Aluno");
-                System.Console.WriteLine("Digite 5 para Verificar Salas");
-                System.Console.WriteLine("Digite 6 para Verificar Alunos");
-                System.Console.WriteLine("Digite 0 para sair");
-                opcao = int.Parse (Console.ReadLine ());
-            
-            switch (opcao){
-                case 1:
-                break;
-                case 2:
-                break;
-                case 3:
-                break;
-                case 4:
-                break;
-                case 5:
-                break;
-                case 6:
-                break;
+                Console.Write("Nome:");
+                string nome = Console.ReadLine();
+                System.Console.Write("Dt Nascimento: ");
+                DateTime dtNascimento = DateTime.Parse(Console.ReadLine());
 
-
+                Aluno novoAluno = new Aluno();
+                novoAluno.Nome = nome;
+                novoAluno.DataNascimento = dtNascimento;
+                
+                int index = 0;
+                foreach(Aluno aluno in alunos)
+                {
+                    if (alunos == null)
+                    {
+                        alunos[index] = novoAluno;
+                        break;
+                    }
+                    index++;
+                }
+                alunosCadastrados++;
             }
-
-            } while (opcao !=6 );
         }
     }
 }
