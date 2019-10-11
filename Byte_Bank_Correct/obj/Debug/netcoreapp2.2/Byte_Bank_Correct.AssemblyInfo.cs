@@ -7,10 +7,10 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ByteBank")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Byte_Bank_Correct")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
-[assembly: System.Reflection.AssemblyProductAttribute("ByteBank")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ByteBank")]
+[assembly: System.Reflection.AssemblyProductAttribute("Byte_Bank_Correct")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Byte_Bank_Correct")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
