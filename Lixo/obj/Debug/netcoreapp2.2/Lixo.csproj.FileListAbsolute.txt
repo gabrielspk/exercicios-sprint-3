@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\Lixo\bin\Debug\netcoreapp2.2\Lixo.deps.json
+C:\Users\50738510807\Desktop\Exercícios\Lixo\bin\Debug\netcoreapp2.2\Lixo.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\Lixo\bin\Debug\netcoreapp2.2\Lixo.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\Lixo\bin\Debug\netcoreapp2.2\Lixo.dll
+C:\Users\50738510807\Desktop\Exercícios\Lixo\bin\Debug\netcoreapp2.2\Lixo.pdb
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.dll
+C:\Users\50738510807\Desktop\Exercícios\Lixo\obj\Debug\netcoreapp2.2\Lixo.pdb

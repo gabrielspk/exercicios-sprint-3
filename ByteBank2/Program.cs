@@ -7,18 +7,16 @@ namespace ByteBank2
     {
         static void Main(string[] args)
         {
-            int kio = int.Parse(Console.ReadLine());
-            
-            ContaCorrente contaCorrente1 = new ContaCorrente(kio, 1, "Alexandre");
+            ContaCorrente joao13 = new ContaCorrente(1, 1, "Alexandre");
 
-            DepositarConta(contaCorrente1);
-            SacarConta(contaCorrente1);
+            DepositarConta(joao13);
+            SacarConta(joao13);
 
             ContaBancaria contaEsperimental1 = new ContaEsperimental(1, 2, "Cesar");
             DepositarConta(contaEsperimental1);
             SacarConta(contaEsperimental1);
 
-            TransferirEmConta(contaEsperimental1,contaCorrente1);
+            TransferirEmConta(contaEsperimental1,joao13);
         }
             #region Depósito
 
@@ -86,7 +84,6 @@ namespace ByteBank2
             System.Console.WriteLine();
                 
             #endregion
-            }
-        
+        }
     }
 }
