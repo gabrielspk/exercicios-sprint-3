@@ -41,7 +41,7 @@ enum CategoriaEnum : int
 
             switch (opcao) {
                 case 1:
-                Garrafa garrafa = new Garrafa ();
+                Garrafa garrafa = new Garrafa (); 
                 break;
 
                 case 2:

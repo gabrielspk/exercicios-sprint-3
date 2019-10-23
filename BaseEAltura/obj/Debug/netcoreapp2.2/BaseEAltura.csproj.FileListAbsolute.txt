@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\bin\Debug\netcoreapp2.2\BaseEAltura.deps.json
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\bin\Debug\netcoreapp2.2\BaseEAltura.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\bin\Debug\netcoreapp2.2\BaseEAltura.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\bin\Debug\netcoreapp2.2\BaseEAltura.dll
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\bin\Debug\netcoreapp2.2\BaseEAltura.pdb
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.dll
+C:\Users\50738510807\Desktop\Exercícios\BaseEAltura\obj\Debug\netcoreapp2.2\BaseEAltura.pdb
