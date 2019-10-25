@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\AouB\bin\Debug\netcoreapp2.2\AouB.deps.json
+C:\Users\50738510807\Desktop\Exercícios\AouB\bin\Debug\netcoreapp2.2\AouB.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\AouB\bin\Debug\netcoreapp2.2\AouB.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\AouB\bin\Debug\netcoreapp2.2\AouB.dll
+C:\Users\50738510807\Desktop\Exercícios\AouB\bin\Debug\netcoreapp2.2\AouB.pdb
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.dll
+C:\Users\50738510807\Desktop\Exercícios\AouB\obj\Debug\netcoreapp2.2\AouB.pdb

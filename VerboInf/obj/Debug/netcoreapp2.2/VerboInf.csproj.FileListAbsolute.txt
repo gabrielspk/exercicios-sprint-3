@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\bin\Debug\netcoreapp2.2\VerboInf.deps.json
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\bin\Debug\netcoreapp2.2\VerboInf.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\bin\Debug\netcoreapp2.2\VerboInf.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\bin\Debug\netcoreapp2.2\VerboInf.dll
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\bin\Debug\netcoreapp2.2\VerboInf.pdb
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.dll
+C:\Users\50738510807\Desktop\Exercícios\VerboInf\obj\Debug\netcoreapp2.2\VerboInf.pdb

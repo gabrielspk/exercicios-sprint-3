@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\NumTri\bin\Debug\netcoreapp2.2\NumTri.deps.json
+C:\Users\50738510807\Desktop\Exercícios\NumTri\bin\Debug\netcoreapp2.2\NumTri.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\NumTri\bin\Debug\netcoreapp2.2\NumTri.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\NumTri\bin\Debug\netcoreapp2.2\NumTri.dll
+C:\Users\50738510807\Desktop\Exercícios\NumTri\bin\Debug\netcoreapp2.2\NumTri.pdb
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.dll
+C:\Users\50738510807\Desktop\Exercícios\NumTri\obj\Debug\netcoreapp2.2\NumTri.pdb

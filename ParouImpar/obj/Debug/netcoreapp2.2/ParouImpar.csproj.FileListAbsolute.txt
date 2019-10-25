@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\bin\Debug\netcoreapp2.2\ParouImpar.deps.json
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\bin\Debug\netcoreapp2.2\ParouImpar.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\bin\Debug\netcoreapp2.2\ParouImpar.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\bin\Debug\netcoreapp2.2\ParouImpar.dll
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\bin\Debug\netcoreapp2.2\ParouImpar.pdb
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.dll
+C:\Users\50738510807\Desktop\Exercícios\ParouImpar\obj\Debug\netcoreapp2.2\ParouImpar.pdb
