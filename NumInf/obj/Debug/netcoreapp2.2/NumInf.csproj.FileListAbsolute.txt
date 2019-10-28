@@ -1,0 +1,11 @@
+C:\Users\50738510807\Desktop\Exercícios\NumInf\bin\Debug\netcoreapp2.2\NumInf.deps.json
+C:\Users\50738510807\Desktop\Exercícios\NumInf\bin\Debug\netcoreapp2.2\NumInf.runtimeconfig.json
+C:\Users\50738510807\Desktop\Exercícios\NumInf\bin\Debug\netcoreapp2.2\NumInf.runtimeconfig.dev.json
+C:\Users\50738510807\Desktop\Exercícios\NumInf\bin\Debug\netcoreapp2.2\NumInf.dll
+C:\Users\50738510807\Desktop\Exercícios\NumInf\bin\Debug\netcoreapp2.2\NumInf.pdb
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.csprojAssemblyReference.cache
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.csproj.CoreCompileInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.AssemblyInfoInputs.cache
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.AssemblyInfo.cs
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.dll
+C:\Users\50738510807\Desktop\Exercícios\NumInf\obj\Debug\netcoreapp2.2\NumInf.pdb
